@@ -20,7 +20,13 @@ A Youtube Video Downloader For Android using Termux App with youtube-dl plugins.
 
 <h2>How to use</h2>
 <ul>
-<li>(1)Open youtube and select any Video you wanna download, Now you just Have to press on the Share button of the video you wanna download.Now Your Phone will give you a list of apps where you can share the Video. Just Select Termux.</li>
-
-<li>(2)Now you will see the list of formats and select one which is suitable for you and press enter and the downloading will start. For example : if you wanna download an mp3 version of the video then you just have to type 1 and press Enter to download it.</li>
+<li>Open youtube and select any Video you wanna download, Now you just Have to press on the Share button of the video you wanna download.
+<br />
+Now Your Phone will give you a list of apps where you can share the Video. Just Select Termux.</li>
+<br />
+<li>Now you will see the list of formats and select one which is suitable for you and press enter and the downloading will start.
+<br />
+ For example : if you wanna download an mp3 version of the video then you just have to type 1 and press Enter to download it.</li>
 </ul>
+
+<b></u>All file Save to "Internal-Storage/Youtube" Folder</u> </b>
