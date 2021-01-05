@@ -27,7 +27,7 @@ printf "$coral"
 figlet " " Z i k r u l
 printf "$resetcol $blue"
 echo "    Contact Email :"
-printf "$b $green"
+printf "$b $blue"
 echo "  bosszikrul@gmail.com"
 printf "$resetall $yellow"
 echo "_____________________________________"
