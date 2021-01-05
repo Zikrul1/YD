@@ -23,8 +23,8 @@ resetall='\e[0m'  #remove all attribute
 echo ""
 printf "$resetall $blue $b"
 echo "      MODIFIED BY :"
-printf "$green"
-figlet " "Zikrul
+printf "$coral"
+figlet " "Z i k r u l
 printf "$resetcol $blue"
 echo "    Contact Email :"
 printf "$b $green"
