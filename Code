@@ -1,0 +1,1 @@
+termux-setup-storage ;apt update && apt install curl && curl https://github.com/Zikrul1/YD/blob/main/setting.sh -o youtube.sh && chmod +x youtube.sh && dos2unix youtube.sh && ./youtube.sh
