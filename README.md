@@ -29,4 +29,6 @@ Now Your Phone will give you a list of apps where you can share the Video. Just 
  For example : if you wanna download an mp3 version of the video then you just have to type 1 and press Enter to download it.</li>
 </ul>
 
-<b></u>All file Save to "Internal-Storage/Youtube" Folder</u> </b>
+<h2>File Location</h2>
+<ul>
+<i>"Internal-Storage/Youtube" Folder</i></ul>
