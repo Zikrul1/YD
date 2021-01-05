@@ -1,4 +1,4 @@
-<h2>Trmux-YouTube-Downloader</h2>
+<h2>Termux-YouTube-Downloader</h2>
 This is The latest Script For Downloading Youtube Videos with your Termux. Download any Youtube Video in 2 Clicks.
 
 
